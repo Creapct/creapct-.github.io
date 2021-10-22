@@ -16,7 +16,7 @@ ul.over{
      transition: .3s;
   }
   .over img:hover{
-     opacity: 0.1;
+     opacity: 0.3;
   }
 
 body{
