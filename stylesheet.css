@@ -13,7 +13,7 @@ ul.over{
      height: auto;
      display:;
      opacity: 1;
-     transition: .2s;
+     transition: 0.2s;
   }
   .over img:hover{
      opacity: 0.3;
